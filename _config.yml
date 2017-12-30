@@ -6,7 +6,10 @@ title: Honza \"apophis\" Horáček
 description: Osobní prezentace Honzy Horáčka.
 avatar: /assets/img/ogp.png
 favicon: /assets/img/ogp.png
-language: cz
+language: cs
+author: Jan Horáček
+keywords: Jan,Horáček,web,osobní
+robots: index,follow
 
 #
 # Icons
@@ -41,7 +44,7 @@ permalink: pretty
 #
 # Gems.
 #
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
 
@@ -53,7 +56,7 @@ gems:
 # !! Danger zone !!
 #
 
-include: ["_pages"]
+include: ["_pages", ".htaccess"]
 
 markdown: kramdown
 kramdown:
