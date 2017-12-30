@@ -2,6 +2,9 @@
     h1, h2, h3, h4, h5, h6 {
         line-height: 1.3;
         margin: 1em 0;
+        a {
+            color: $text-color;
+        }
         .header-link {
             margin-left: 0.2em;
             color: $link-color;
@@ -81,7 +84,7 @@
     }
 
     ol, ul {
-        list-style-position: inside;
+        list-style-position: outside;
     }
 
     code {
