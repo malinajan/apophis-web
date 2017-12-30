@@ -15,12 +15,12 @@ robots: index,follow
 # Icons
 #
 icons:
-  rss: true
-  email:
-  github: ttskch
+  rss: false
+  email: me@apophis.cz
+  github: horacekj
   bitbucket:
-  twitter: ttskch
-  facebook:
+  twitter:
+  facebook: horacek.jan
   google_plus:
   tumblr:
   behance:
