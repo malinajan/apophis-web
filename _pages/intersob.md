@@ -9,7 +9,8 @@ hide: true
 jsem se zúčastnil v letech 2013, 2014 a 2015. V roce 2016 a 2017 jsem InterSoBa
 organizoval.
 
- * org@[InterSoB 2017](http://ks.math.muni.cz/intersob/2017/)
+ * org@[InterSoB 2017](http://ks.math.muni.cz/intersob/2017/): B-týmákoval
+   jsem na hře, měl jsem na starost stanoviště
  * org@[InterSoB 2016](http://ks.math.muni.cz/intersob/2016/): spouta
    orgů pod vedením Domči včetně mě :), bylo to super
  * BSOD@[InterSoB 2015](http://ks.math.muni.cz/intersob/2015/):
