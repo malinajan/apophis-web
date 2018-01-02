@@ -2,10 +2,21 @@ $site-max-width: 1200px;
 $mobile-width: 800px;
 $side-padding: 10px;
 
+html, body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+#main-container {
+    min-height:100%;
+    position:relative;
 }
 
 .site-header {
@@ -26,11 +37,14 @@ $side-padding: 10px;
     margin: 0 auto;
     @media screen and (max-width: $site-max-width) {
         width: 100%;
-        padding: 0 $side-padding;
+        padding-left: $side-padding;
+        padding-right: $side-padding;
     }
     @media screen and (max-width: $mobile-width) {
-        padding: 0;
+        padding-left: 0;
+        padding-right: 0;
     }
+    padding-bottom: 75px; /* Height of the footer */
 }
 
 .site-content {
@@ -55,6 +69,8 @@ $side-padding: 10px;
 }
 
 .site-footer {
+    position:absolute;
+    bottom:0;
     width: 100%;
     .inner {
         padding: 0 $side-padding;
