@@ -14,7 +14,7 @@ na [githubu](https://github.com/horacekj).
 ## Jak programuji
 
  * Vybírám odpovídající jazyk pro daný problém.
- * `vim` + `make` = ♥.
+ * `vim` + `make` + `git` = ♥.
  * Na linuxu, s láskou.
  * Když je to třeba, tak i v assembleru.
  * Na Windows, s trpělivostí.
