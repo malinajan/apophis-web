@@ -26,5 +26,7 @@ Já se účastnil v těchto ročnících:
    *24. místo ze 171 týmů*
  * KVÍK!@InterLoS 2016 – kategorie vysokoškoláci: Domča Krejčí, Tinka,
    Tíman, Honza Horáček, Tom Effenberger.\\
-   *7. místo z 208 týmů*
- * KVÍK!@InterLoS 2017 – kategorie ostatní
+   *7. místo z 208 týmů*
+ * KVÍK!@InterLoS 2017 – kategorie ostatní: Míša Nováková, Tinka, Tíman,
+   Honza Horáček, Štouri.\\
+   *34. místo z 223 týmů*
