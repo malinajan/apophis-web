@@ -57,7 +57,7 @@ promáhal s [frontendem](https://github.com/fi-ksi/web-frontend).
 
 Ve školním roce 2016/2017 jsem měl na starost KSI jako jeho hlavní vedoucí.
 
-## Školní rok 2017/2017
+## Školní rok 2017/2018
 
 12\. ročník KSI
 
