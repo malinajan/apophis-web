@@ -90,7 +90,7 @@ title: Ahoj, já jsem Honza ☺
         {text: "FI", weight: 9},
         {text: "MUNI", weight: 6},
         {text: "Domča", weight: 3},
-        {text: "Štěpánka", weight: 9},
+        {text: "Štěpánka", weight: 5},
         {text: "ParaDiSe", weight: 5},
         {text: "PoznejFI", weight: 5},
         {text: "Zvěřinec", weight: 7},
