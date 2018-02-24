@@ -27,6 +27,7 @@ měl.
  * box na filtry 77 mm,
  * fax,
  * samokřídlo + vysílačka,
+ * nadšené účatníky Poznej FI
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
