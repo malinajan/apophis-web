@@ -26,8 +26,7 @@ měl.
  * B+W polarizační filtr 77 mm,
  * box na filtry 77 mm,
  * fax,
- * samokřídlo + vysílačka,
- * nadšené účatníky Poznej FI
+ * samokřídlo + vysílačka
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
