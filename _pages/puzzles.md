@@ -18,6 +18,8 @@ jsou vždy ve formátu tým@název\_hry rok: členové
 -   BSOD@[NaPALMně](http://www.napalmne.cz/2017/napalmne.htm) 2017:
     Honza Horáček, Jirka Bilík, Pavel Zikmund, Dominika Krejčí, Martin
     Ptáček
+-   Glofunkt Hakrsex@[Tmou 19](http://www.tmou.cz/2017/index) 2017:
+    Honza Horáček, Ron Luc, Ondra Svoboda, Honza Pokorný a Míša Krákorová
 
 ## Rok 2016
 
