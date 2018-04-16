@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oblíené odkazy
+title: Oblíbené odkazy
 permalink: /links
 order: 110
 ---
