@@ -5,7 +5,7 @@ permalink: /links
 order: 110
 ---
 
- * [Dominika Krejčí](http://krejdom.blog.cz/)
+ * [Dominika Krejčí](https://vranihnizdo.blogspot.cz/)
  * [Honza Mrázek](http://honzamrazek.cz/)
  * [Honza Drábek](http://jandrabek.cz/)
  * [Můj milý tatínek Miroslav Horáček s jeho vtipným
