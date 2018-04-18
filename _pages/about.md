@@ -35,7 +35,7 @@ v Brně](http://www.gvid.cz/).
  * Jsem jedním ze studentů v [Programu na podporu nadaných
    studentů](http://www.jcmm.cz/cz/ppns.html), který dotuje mé nadáčské
    aktivity a kde jsem si našel spoustu stejně ulítlých kamarádů.
- * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles/).
+ * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles).
  * Občas [vyfotím](/photo/) nějaký ten vláček, nebo Verču.
  * Baví mě společenský tanec.
  * Baví mě turistika, ať už procházky lesem, městem, či turistka
