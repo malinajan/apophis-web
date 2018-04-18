@@ -36,7 +36,7 @@ v Brně](http://www.gvid.cz/).
    studentů](http://www.jcmm.cz/cz/ppns.html), který dotuje mé nadáčské
    aktivity a kde jsem si našel spoustu stejně ulítlých kamarádů.
  * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles).
- * Občas [vyfotím](/photo/) nějaký ten vláček, nebo Verču.
+ * Občas [vyfotím](/photo) nějaký ten vláček, nebo Verču.
  * Baví mě společenský tanec.
  * Baví mě turistika, ať už procházky lesem, městem, či turistka
    vysokohorská (vše ale pouze rekreačně a občas).
