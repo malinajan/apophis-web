@@ -5,12 +5,10 @@ permalink: /about
 order: 10
 ---
 
-Mé jméno je Jan Horáček, často si nechávám říkat Honza, Horyn, či Apophis. Jsem
-student bakalářského studia oboru [Umělá inteligence a zpracování přirozeného
-jazyka](https://www.fi.muni.cz/katalog/obory_html/mgr-umi.xhtml.cs") na
-[Fakultě informatiky](http://www.fi.muni.cz) [Masarykovy
-univerzity](http://www.muni.cz). Na jaře roku 2015 jsem dokončil studium
-šestiletého gymnázia se zaměřením na programování na [Gymnáziu Vídeňská
+Mé jméno je Jan Horáček, často si nechávám říkat Honza, Horyn, či Apophis. Jsem
+student bakalářského studia na [Fakultě informatiky](http://www.fi.muni.cz)
+[Masarykovy univerzity](http://www.muni.cz). Na jaře roku 2015 jsem dokončil
+studium šestiletého gymnázia se zaměřením na programování na [Gymnáziu Vídeňská
 v Brně](http://www.gvid.cz/).
 
  * Už přes třináct let se zabývám stavbou modelového kolejiště
