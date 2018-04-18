@@ -21,19 +21,19 @@ v Brně](http://www.gvid.cz/).
    [JOP](http://cs.wikipedia.org/wiki/Jednotn%C3%A9_obslu%C5%BEn%C3%A9_pracovi%C5%A1t%C4%9B).
    Stavím stanice, vyvíjím elektroniku, organizuji výstavy, jezdím na
    setkání...
- * Učím na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/) (vedu
-   cvičení).
+ * Učím na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/).
  * Jsem zaměstnán na [Mendelově univerzitě v Brně](http://mendelu.cz/), kde se
    podílím na chodu [Laboratoře řízení kolejových
    vozidel](http://lrkv.pef.mendelu.cz).
+ * Vedu [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
+   [Masarykovy univerzity](https://muni.cz).
+ * Jsem vedoucí soustředění pro středoškoláky [K-SCUK](https://kscuk.fi.muni.cz/).
+ * Organizuji soutěže a soustředění pro středoškoláky, například
+   [PoznejFI](http://poznej.fi.muni.cz/),
+   nebo občas [InterSoB](http://intersob.fi.muni.cz/).
  * V [Úseku výpočetní techniky ve Středisku volného času
    Lužánky](http://vyt.luzanky.cz/") učím programovat děti v programovacím
    jazyce C#, dříve jsem učíval i Object Pascal v prostředí Delphi 7.
- * Vedu [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
-   [Masarykovy univerzity](https://muni.cz).
- * Organizuji soutěže a soustředění pro středoškoláky, například
-   [K-SCUK](http://kscuk.fi.muni.cz/), [PoznejFI](http://poznej.fi.muni.cz/),
-   nebo občas [InterSoB](http://intersob.fi.muni.cz/).
  * Jsem jedním ze studentů v [Programu na podporu nadaných
    studentů](http://www.jcmm.cz/cz/ppns.html), který dotuje mé nadáčské
    aktivity a kde jsem si našel spoustu stejně ulítlých kamarádů.
