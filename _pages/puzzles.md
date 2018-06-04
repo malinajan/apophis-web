@@ -13,6 +13,9 @@ jsou vždy ve formátu tým@název\_hry rok: členové
 
 -   Glofunkt@[Sendvič](http://www.hrasendvic.cz/2018/) 2018: Honza
     Horáček, Míša Krákorová, Honza Fabík, Ondra Svoboda, Jakub Píška
+-   Glofunkt Hakrsex@[Dnem](http://www.chameleonbrno.org/dnem/) 2018: Honza
+    Horáček, Míša Krákorová, Ondra Svoboda, Verča Horáčková, Petr Adámek
+    (brácha os Míšy)
 
 ## Rok 2017
 
