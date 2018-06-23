@@ -14,7 +14,6 @@ měl.
  * [pořádný flash
    disk](https://www.tsbohemia.cz/corsair-flash-voyager-gt-usb3-0-64gb-240-100mb-s-gumovy-povrch_d193354.html),
  * mapa města Brna s rejstříkem ulic (NEsešitové vydání),
- * univerzální nabíječka baterií (Raytronic?),
  * pláštěnka,
  * mosazný kartáček na čištění hrubých nečistot koleček modelů v
    měřítku TT,
@@ -30,4 +29,4 @@ měl.
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
-Poslední úprava: 24. 12. 2017
+Poslední úprava: 23. 7. 2018
