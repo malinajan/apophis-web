@@ -15,7 +15,7 @@ V KMŽ se zabývám:
 
  * tvorbou [řídícího SW kolejiště](http://hjop.kmz-brno.cz/),
  * [vývojem elektroniky
-   kolejiště](https://github.com/kmzbrnoI/posilaci-systemy-dps),
+   kolejiště](https://uli.kmz-brno.cz/),
  * [pokládáním
    kolejí](http://kmz-brno.cz/view.php?cisloclanku=2014050001),
  * [organizováním
@@ -39,7 +39,7 @@ z kooperace KMŽ a Mendelovy univerzity v Brně v roce 2013. Kupříkladu, ve
   systémů](https://github.com/kmzbrnoI?query=posilaci-systemy).
 * [Vývoj řídícího SW kolejiště hJOP](http://hjop.kmz-brno.cz/).
 * Stavba modelu stanice Uhřice u Kyjova.
-* Vývoj vlastního LI – ultimateLI: [deska plošných
+* Vývoj vlastního LI – [ultimateLI](https://uli.kmz-brno.cz): [deska plošných
   spojů](https://github.com/kmzbrnoI/uLI-pcb),
   [firmware](https://github.com/kmzbrnoI/uLI-fw) a [firmware dělající z uLI
   centrálu](https://github.com/kmzbrnoI/uLI-master-fw).
