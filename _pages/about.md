@@ -46,7 +46,7 @@ v Brně](http://www.gvid.cz/).
 ## Další
 
  * Pokud mě chcete pustit na svůj server, můžete využit můj [veřejný SSH
-   klíč](assets/id_green-15-1.pub).
+   klíč](assets/id_green-18-1.pub).
  * Pokud mi chcete poslat něco extra tajného, můžete využít můj [veřejný PGP
    klíč](assets/mail.pub) s fingerprintem `4B12 CCFF 3F26 F6A9 A0D3 C51A 42F0
    6004 88E9 630B`. Pro nejaktuálnější klíč doporučuji navštívit
