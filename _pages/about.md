@@ -12,11 +12,11 @@ studium šestiletého gymnázia se zaměřením na programování na [Gymnáziu 
 v Brně](http://www.gvid.cz/).
 
  * Už přes třináct let se zabývám stavbou modelového kolejiště
-   a to převážně v [Klubu modelářů železnic Brno I](http://kmz-brno.cz/), kde
+   a to převážně v [Klubu modelářů železnic Brno I](https://kmz-brno.cz/), kde
    se starám o modulové kolejiště TT po všech stránkách. Dlouhodobě programuji
    [vlastní software pro řízení kolejiště](http://hjop.kmz-brno.cz/), který je
    inspirován systémem
-   [JOP](http://cs.wikipedia.org/wiki/Jednotn%C3%A9_obslu%C5%BEn%C3%A9_pracovi%C5%A1t%C4%9B).
+   [JOP](https://cs.wikipedia.org/wiki/Jednotné_obslužné_pracoviště).
    Stavím stanice, vyvíjím elektroniku, organizuji výstavy, jezdím na
    setkání...
  * Učím na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/).
@@ -25,16 +25,13 @@ v Brně](http://www.gvid.cz/).
    vozidel](http://lrkv.pef.mendelu.cz).
  * Vedu [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
    [Masarykovy univerzity](https://muni.cz).
- * Jsem vedoucí soustředění pro středoškoláky [K-SCUK](https://kscuk.fi.muni.cz/).
- * Organizuji soutěže a soustředění pro středoškoláky, například
+ * Organizuji soustředění pro středoškoláky [K-SCUK](https://kscuk.fi.muni.cz/).
+ * Organizuji soutěže a akce pro středoškoláky, například
    [PoznejFI](http://poznej.fi.muni.cz/),
    nebo občas [InterSoB](http://intersob.fi.muni.cz/).
  * V [Úseku výpočetní techniky ve Středisku volného času
    Lužánky](http://vyt.luzanky.cz/") učím programovat děti v programovacím
    jazyce C#, dříve jsem učíval i Object Pascal v prostředí Delphi 7.
- * Jsem jedním ze studentů v [Programu na podporu nadaných
-   studentů](http://www.jcmm.cz/cz/ppns.html), který dotuje mé nadáčské
-   aktivity a kde jsem si našel spoustu stejně ulítlých kamarádů.
  * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles).
  * Občas [vyfotím](/photo) nějaký ten vláček, nebo Verču.
  * Baví mě společenský tanec.
