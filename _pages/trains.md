@@ -21,7 +21,7 @@ V KMŽ se zabývám:
  * [organizováním
    výstav](http://kmz-brno.cz/view.php?cisloclanku=2015050001),
  * psaním článků na web a
- * koncepčním vedením modulovky TT.
+ * koncepčním vedením [modulovky TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/).
 
 Dále spravuji [Facebookovou stránku KMŽ](https://www.facebook.com/KMZBrnoI),
 přispívám do [klubovního veřejného gitového
@@ -30,18 +30,19 @@ repozitáře](https://share.kmz-brno.cz/).
 
 V současnosti aktivně spolupracuji na činnostech v [Laboratoři řízení
 kolejových vozidel (LRKV)](http://lrkv.pef.mendelu.cz/), která vzešla
-z kooperace KMŽ a Mendelovy univerzity v Brně v roce 2013. Kupříkladu, veškerý
+z kooperace KMŽ a Mendelovy univerzity v Brně v roce 2013. Kupříkladu, veškerý
 řídící SW kolejiště v LRKV je mým dílem.
 
 ## Větší projekty, které jsem vedl anebo vedu
 
-* [Vývoj Posílacích
-  systémů](https://github.com/kmzbrnoI?query=posilaci-systemy).
+* [Vývoj měřicího vozu](https://wsm.kmz-brno.cz/)
 * [Vývoj řídícího SW kolejiště hJOP](http://hjop.kmz-brno.cz/).
-* Stavba modelu stanice Uhřice u Kyjova.
 * Vývoj vlastního LI – [ultimateLI](https://uli.kmz-brno.cz): [deska plošných
   spojů](https://github.com/kmzbrnoI/uLI-pcb),
-  [firmware](https://github.com/kmzbrnoI/uLI-fw) a [firmware dělající z uLI
+  [firmware](https://github.com/kmzbrnoI/uLI-fw) a [firmware dělající z uLI
   centrálu](https://github.com/kmzbrnoI/uLI-master-fw).
+* Stavba modelu stanice Uhřice u Kyjova.
+* [Vývoj Posílacích
+  systémů](https://github.com/kmzbrnoI?query=posilaci-systemy).
 
 ![Dispečerské rozhraní stanice Klobouky u Brna](assets/klobouky.png)
