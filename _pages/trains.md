@@ -35,7 +35,7 @@ z kooperace KMŽ a Mendelovy univerzity v Brně v roce 2013. Kupříkladu, v
 
 ## Větší projekty, které jsem vedl anebo vedu
 
-* [Vývoj měřicího vozu](https://wsm.kmz-brno.cz/)
+* [Vývoj měřicího vozu](https://wsm.kmz-brno.cz/).
 * [Vývoj řídícího SW kolejiště hJOP](http://hjop.kmz-brno.cz/).
 * Vývoj vlastního LI – [ultimateLI](https://uli.kmz-brno.cz): [deska plošných
   spojů](https://github.com/kmzbrnoI/uLI-pcb),
