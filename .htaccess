@@ -5,3 +5,5 @@
 	AuthUserFile /etc/apache2/.htpasswd
 	Require valid-user
 </FilesMatch>
+
+ErrorDocument 404 /404.html
