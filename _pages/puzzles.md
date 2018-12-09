@@ -16,6 +16,9 @@ jsou vždy ve formátu tým@název\_hry rok: členové
 -   Glofunkt Hakrsex@[Dnem](http://www.chameleonbrno.org/dnem/) 2018: Honza
     Horáček, Míša Krákorová, Ondra Svoboda, Verča Horáčková, Petr Adámek
     (brácha od Míšy)
+-   Glofunkt Hakrsex@[Tmou XX](http://www.tmou.cz/2017/index) 2018:
+    Honza Horáček, Anička Hradecká, Míša Krákorová, Ondra Svoboda a Honza
+    Pokorný
 
 ## Rok 2017
 
