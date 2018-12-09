@@ -30,3 +30,6 @@ Já se účastnil v těchto ročnících:
  * KVÍK!@InterLoS 2017 – kategorie ostatní: Míša Nováková, Tinka, Tíman,
    Honza Horáček, Štouri.\\
    *34. místo z 223 týmů*
+ * KVÍK!@InterLoS 2018 – kategorie vysokoškoláky: Honza Horáček, Anička
+   Hradecká, Honza Puf Pokorný, Marky Doležalová, Ron Luc.\\
+   *23. místo z 223 týmů*
