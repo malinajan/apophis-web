@@ -9,6 +9,7 @@ Pokud byste měli dojem, že si chcete zahrát na Ježíška (a jemu podobné) s
 jako objektem Vašeho zájmu, vězte, že níže zmíněné dárky mě nezarmoutí, ba
 naopak, jedná se o věci, které si přeji a které bych rád měl.
 
+ * Trekové hole s hmotností do 500 g
  * Několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky))
  * Logicky analyzátor signálu.
