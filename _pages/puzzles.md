@@ -9,6 +9,11 @@ order: 60
 slouží více, než pro osobní prezentaci, jako náhrada mé paměti. Data
 jsou vždy ve formátu tým@název\_hry rok: členové
 
+## Rok 2019
+
+-   Glofunkt@[Palapeli](http://palapeli.cz/) 2019: Honza Horáček,
+    Anička Hradecká, Míša Krákorová, Honza „Puf“ Pokorný
+
 ## Rok 2018
 
 -   Glofunkt@[Sendvič](http://www.hrasendvic.cz/2018/) 2018: Honza
