@@ -26,23 +26,21 @@ zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gv
    a [Algoritmy a datové struktury II](https://is.muni.cz/predmet/fi/jaro2019/IV003).
    Pomáhám s přípravou předmětu
    [Teaching Lab](https://is.muni.cz/predmet/fi/jaro2019/DUCIT).
- * Jsem zaměstnán na [Mendelově univerzitě v Brně](http://mendelu.cz/), kde se
-   podílím na chodu [Laboratoře řízení kolejových
-   vozidel](http://lrkv.pef.mendelu.cz).
+ * Na [Mendelově univerzitě v Brně](http://mendelu.cz/) se podílím na chodu
+   [Laboratoře řízení kolejových vozidel](http://lrkv.pef.mendelu.cz).
  * Vedu [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
    [Masarykovy univerzity](https://muni.cz).
  * Organizuji soustředění pro středoškoláky [K-SCUK](https://kscuk.fi.muni.cz/).
- * Organizuji soutěže a akce pro středoškoláky, například
-   [PoznejFI](http://poznej.fi.muni.cz/),
-   nebo občas [InterSoB](http://intersob.fi.muni.cz/).
+ * Organizuji soutěže a akce pro středoškoláky, například
+   [PoznejFI](http://poznej.fi.muni.cz/), či [InterSoB](http://intersob.fi.muni.cz/).
  * V [Úseku výpočetní techniky ve Středisku volného času
    Lužánky](http://vyt.luzanky.cz/") učím programovat děti v programovacím
    jazyce C#, dříve jsem učíval i Object Pascal v prostředí Delphi 7.
  * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles).
- * Občas [vyfotím](/photo) nějaký ten vláček, nebo Verču.
+ * Občas [vyfotím](/photo) nějaký ten vláček.
  * Baví mě společenský tanec.
- * Baví mě turistika, ať už procházky lesem, městem, či turistka
-   vysokohorská (vše ale pouze rekreačně a občas).
+ * Baví mě turistika, ať už procházky lesem, městem, či turistka vysokohorská.
+ * Rád běžkuji.
  * Čas od času ulovím [nějakou tu cache](http://www.geocaching.com/) (nick:
    horyn).
 
