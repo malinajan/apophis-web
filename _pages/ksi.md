@@ -62,3 +62,9 @@ Ve školním roce 2016/2017 jsem měl na starost KSI jako jeho hlavní vedoucí.
 12\. ročník KSI
 
 Ve školním roce 2017/2018 mám na starost KSI jako jeho hlavní vedoucí.
+
+## Školní rok 2018/2019
+
+13\. ročník KSI
+
+Ve školním roce 2018/2019 jsem spolu s Ondrou Borýskem garantem KSI.
