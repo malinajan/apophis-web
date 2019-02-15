@@ -6,10 +6,11 @@ order: 10
 ---
 
 Mé jméno je Jan Horáček, často si nechávám říkat Honza, Horyn, či Apophis. Jsem
-student bakalářského studia na [Fakultě informatiky](http://www.fi.muni.cz)
-[Masarykovy univerzity](http://www.muni.cz). Na jaře roku 2015 jsem dokončil
-studium šestiletého gymnázia se zaměřením na programování na [Gymnáziu Vídeňská
-v Brně](http://www.gvid.cz/).
+studentem magisterského studia *Programovatelné technické struktury* na [Fakultě
+informatiky](http://www.fi.muni.cz) [Masarykovy
+univerzity](http://www.muni.cz) v Brně. V únoru 2019 jsem na FI získal získal
+titul Bc. Na jaře roku 2015 jsem dokončil studium šestiletého gymnázia se
+zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gvid.cz/).
 
  * Už přes třináct let se zabývám stavbou modelového kolejiště
    a to převážně v [Klubu modelářů železnic Brno I](https://kmz-brno.cz/), kde
