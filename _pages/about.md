@@ -12,22 +12,20 @@ univerzity](http://www.muni.cz) v Brně. V únoru 2019 jsem na FI získal zís
 titul Bc. Na jaře roku 2015 jsem dokončil studium šestiletého gymnázia se
 zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gvid.cz/).
 
- * Už přes třináct let se zabývám stavbou modelového kolejiště
+ * Od svých šesti let let se zabývám stavbou modelového kolejiště
    a to převážně v [Klubu modelářů železnic Brno I](https://kmz-brno.cz/), kde
-   se starám o modulové kolejiště TT po všech stránkách. Dlouhodobě programuji
+   se starám o [modulové kolejiště TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/) po všech stránkách. Dlouhodobě programuji
    [vlastní software pro řízení kolejiště](http://hjop.kmz-brno.cz/), který je
    inspirován systémem
    [JOP](https://cs.wikipedia.org/wiki/Jednotné_obslužné_pracoviště).
    Stavím stanice, vyvíjím elektroniku, organizuji výstavy, jezdím na
    setkání...
  * Na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/) vyučuji
-   předměty <a href=https://is.muni.cz/predmet/fi/podzim2018/IB111"">Základy
-   programování</a>, <a
-   href="https://is.muni.cz/predmet/fi/jaro2019/IB002">Algoritmy a datové
-   struktury I<a> a <a
-   href="https://is.muni.cz/predmet/fi/jaro2019/IV003">Algoritmy a datové
-   struktury II</a>. Pomáhám s přípravou předmětu <a
-   href="https://is.muni.cz/predmet/fi/jaro2019/DUCIT">Teaching Lab</a>.
+   předměty [Základy programování](https://is.muni.cz/predmet/fi/podzim2018/IB111),
+   [Algoritmy a datové struktury I](https://is.muni.cz/predmet/fi/jaro2019/IB002)
+   a [Algoritmy a datové struktury II](https://is.muni.cz/predmet/fi/jaro2019/IV003).
+   Pomáhám s přípravou předmětu
+   [Teaching Lab](https://is.muni.cz/predmet/fi/jaro2019/DUCIT).
  * Jsem zaměstnán na [Mendelově univerzitě v Brně](http://mendelu.cz/), kde se
    podílím na chodu [Laboratoře řízení kolejových
    vozidel](http://lrkv.pef.mendelu.cz).
