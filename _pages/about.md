@@ -19,7 +19,14 @@ v Brně](http://www.gvid.cz/).
    [JOP](https://cs.wikipedia.org/wiki/Jednotné_obslužné_pracoviště).
    Stavím stanice, vyvíjím elektroniku, organizuji výstavy, jezdím na
    setkání...
- * Učím na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/).
+ * Na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/) vyučuji
+   předměty <a href=https://is.muni.cz/predmet/fi/podzim2018/IB111"">Základy
+   programování</a>, <a
+   href="https://is.muni.cz/predmet/fi/jaro2019/IB002">Algoritmy a datové
+   struktury I<a> a <a
+   href="https://is.muni.cz/predmet/fi/jaro2019/IV003">Algoritmy a datové
+   struktury II</a>. Pomáhám s přípravou předmětu <a
+   href="https://is.muni.cz/predmet/fi/jaro2019/DUCIT">Teaching Lab</a>.
  * Jsem zaměstnán na [Mendelově univerzitě v Brně](http://mendelu.cz/), kde se
    podílím na chodu [Laboratoře řízení kolejových
    vozidel](http://lrkv.pef.mendelu.cz).
