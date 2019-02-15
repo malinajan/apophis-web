@@ -12,7 +12,6 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
  * Trekové hole s hmotností do 500 g
  * Několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky))
- * Logicky analyzátor signálu.
  * Frisbee značky [Discraft](http://www.discraft.com/),
  * [pořádný flash
    disk](https://www.tsbohemia.cz/corsair-flash-voyager-gt-usb3-0-64gb-240-100mb-s-gumovy-povrch_d193354.html),
@@ -28,4 +27,4 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
-Poslední úprava: 25. 12. 2018
+Poslední úprava: 15. 2. 2019
