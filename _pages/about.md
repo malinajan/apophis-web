@@ -43,6 +43,8 @@ zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gv
  * Rád běžkuji.
  * Čas od času ulovím [nějakou tu cache](http://www.geocaching.com/) (nick:
    horyn).
+ * V letech 2013–2018 jsem byl členem
+   [Programu na podporu nadaných studentů](http://www.jcmm.cz/projekt/ppns).
 
 ## Další
 
