@@ -22,3 +22,10 @@ nevystavuji.
  * [Cheatsheet do předmětu Diskrétní matematika B](https://github.com/horacekj/mb204-basics).
  * [Přijímač hodinového signálu DCF77](https://github.com/horacekj/dcf-receiver).
  * [Čtení maticové klávesnice na FPGA](https://github.com/horacekj/fpga-keypad).
+
+## Vybrané skoro-školní projekty
+
+Typicky projekty související se [Spolkem přátel severské
+zvěře](https://zverinec.fi.muni.cz/).
+
+ * Starám se o web <https://prostredoskolaky.muni.cz>.
