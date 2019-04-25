@@ -9,7 +9,9 @@ Pokud byste měli dojem, že si chcete zahrát na Ježíška (a jemu podobné) s
 jako objektem Vašeho zájmu, vězte, že níže zmíněné dárky mě nezarmoutí, ba
 naopak, jedná se o věci, které si přeji a které bych rád měl.
 
- * Trekové hole s hmotností do 500 g
+ * [Trekové hole Steeple](https://www.huskycz.cz/trekove-hole-steeple-cervena)
+ * [Polštářek Fluffy](https://www.huskycz.cz/fluffy-tm-modra)
+ * Libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer).
  * Několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky))
  * Frisbee značky [Discraft](http://www.discraft.com/),
