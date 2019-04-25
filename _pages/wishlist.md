@@ -12,6 +12,7 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
  * [Trekové hole Steeple](https://www.huskycz.cz/trekove-hole-steeple-cervena)
  * [Polštářek Fluffy](https://www.huskycz.cz/fluffy-tm-modra)
  * Libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer).
+ * Set ešusů.
  * Několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky))
  * Frisbee značky [Discraft](http://www.discraft.com/),
