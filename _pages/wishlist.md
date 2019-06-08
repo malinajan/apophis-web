@@ -13,6 +13,7 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
  * [Polštářek Fluffy](https://www.huskycz.cz/fluffy-tm-modra)
  * Libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer).
  * [Návleky na boty Frontpoint GTX, velikost L](https://www.hudy.cz/navleky/black-diamond-frontpoint-gtx,32606-black.html)
+ * Červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC.
  * Nepromokavé outdoorové kalhoty.
  * Set ešusů.
  * Několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
