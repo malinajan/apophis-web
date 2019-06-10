@@ -14,7 +14,8 @@ zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gv
 
  * Od svých šesti let let se zabývám stavbou modelového kolejiště
    a to převážně v [Klubu modelářů železnic Brno I](https://kmz-brno.cz/), kde
-   se starám o [modulové kolejiště TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/) po všech stránkách. Dlouhodobě programuji
+   se starám o [modulové kolejiště TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/)
+   po všech stránkách. Dlouhodobě programuji
    [vlastní software pro řízení kolejiště](http://hjop.kmz-brno.cz/), který je
    inspirován systémem
    [JOP](https://cs.wikipedia.org/wiki/Jednotné_obslužné_pracoviště).
@@ -28,14 +29,11 @@ zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gv
    [Teaching Lab](https://is.muni.cz/predmet/fi/jaro2019/DUCIT).
  * Na [Mendelově univerzitě v Brně](http://mendelu.cz/) se podílím na chodu
    [Laboratoře řízení kolejových vozidel](http://lrkv.pef.mendelu.cz).
- * Vedu [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
+ * Aktivně organizuji [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
    [Masarykovy univerzity](https://muni.cz).
  * Organizuji soustředění pro středoškoláky [K-SCUK](https://kscuk.fi.muni.cz/).
  * Organizuji soutěže a akce pro středoškoláky, například
    [PoznejFI](http://poznej.fi.muni.cz/), či [InterSoB](http://intersob.fi.muni.cz/).
- * V [Úseku výpočetní techniky ve Středisku volného času
-   Lužánky](http://vyt.luzanky.cz/") učím programovat děti v programovacím
-   jazyce C#, dříve jsem učíval i Object Pascal v prostředí Delphi 7.
  * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles).
  * Občas [vyfotím](/photo) nějaký ten vláček.
  * Baví mě společenský tanec.
@@ -43,8 +41,14 @@ zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gv
  * Rád běžkuji.
  * Čas od času ulovím [nějakou tu cache](http://www.geocaching.com/) (nick:
    horyn).
+
+## Historie
+
  * V letech 2013–2018 jsem byl členem
    [Programu na podporu nadaných studentů](http://www.jcmm.cz/projekt/ppns).
+ * V letech 2012–2019 jsem v Úseku výpočetní techniky ve [Středisku volného času
+   Lužánky](https://luzanky.cz/") učil programovat děti v programovacím
+   jazyce C#, dříve jsem učíval i Object Pascal v prostředí Delphi 7.
 
 ## Další
 
