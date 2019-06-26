@@ -9,8 +9,6 @@ Pokud byste měli dojem, že si chcete zahrát na Ježíška (a jemu podobné) s
 jako objektem Vašeho zájmu, vězte, že níže zmíněné dárky mě nezarmoutí, ba
 naopak, jedná se o věci, které si přeji a které bych rád měl.
 
- * [Trekové hole Steeple](https://www.huskycz.cz/trekove-hole-steeple-cervena)
- * [Polštářek Fluffy](https://www.huskycz.cz/fluffy-tm-modra)
  * Libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer).
  * [Návleky na boty Frontpoint GTX, velikost L](https://www.hudy.cz/navleky/black-diamond-frontpoint-gtx,32606-black.html)
  * Červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC.
