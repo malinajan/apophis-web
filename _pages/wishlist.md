@@ -9,6 +9,7 @@ Pokud byste měli dojem, že si chcete zahrát na Ježíška (a jemu podobné) s
 jako objektem Vašeho zájmu, vězte, že níže zmíněné dárky mě nezarmoutí, ba
 naopak, jedná se o věci, které si přeji a které bych rád měl.
 
+ * [elektronika pro Pielsticka](http://ttmodelar.eu/index.php?route=product%2Fproduct&product_id=18771),
  * kvalitní termoska 1l (Termos?),
  * outdoor gumový hrneček,
  * outdoor lžička,
