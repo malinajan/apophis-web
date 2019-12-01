@@ -10,6 +10,9 @@ jako objektem Vašeho zájmu, vězte, že níže zmíněné dárky mě nezarmout
 naopak, jedná se o věci, které si přeji a které bych rád měl.
 
  * [elektronika pro Pielsticka](http://ttmodelar.eu/index.php?route=product%2Fproduct&product_id=18771),
+ * jeden ze switchů [TL-SG105E](https://www.czc.cz/tp-link-tl-sg105e/160998/produkt),
+   [TL-SG108PE](https://www.czc.cz/tp-link-tl-sg108pe/191010/produkt),
+   [TL-SG108E](https://www.czc.cz/tp-link-tl-sg108e-metal-case/152636/produkt),
  * kvalitní termoska 1l (Termos?),
  * outdoor gumový hrneček,
  * outdoor lžička,
