@@ -14,7 +14,6 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
    [TL-SG108PE](https://www.czc.cz/tp-link-tl-sg108pe/191010/produkt),
    [TL-SG108E](https://www.czc.cz/tp-link-tl-sg108e-metal-case/152636/produkt),
  * kvalitní termoska 1l (Termos?),
- * kompas (orienťácký),
  * střední turistický batoh (Decathlon?),
  * libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer),
  * červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC,
