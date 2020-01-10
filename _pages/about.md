@@ -25,8 +25,6 @@ zaměřením na programování na [Gymnáziu Vídeňská v Brně](http://www.gv
    předměty [Základy programování](https://is.muni.cz/predmet/fi/podzim2018/IB111),
    [Algoritmy a datové struktury I](https://is.muni.cz/predmet/fi/jaro2019/IB002)
    a [Algoritmy a datové struktury II](https://is.muni.cz/predmet/fi/jaro2019/IV003).
-   Pomáhám s přípravou předmětu
-   [Teaching Lab](https://is.muni.cz/predmet/fi/jaro2019/DUCIT).
  * Na [Mendelově univerzitě v Brně](http://mendelu.cz/) se podílím na chodu
    [Laboratoře řízení kolejových vozidel](http://lrkv.pef.mendelu.cz).
  * Aktivně organizuji [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
