@@ -31,4 +31,4 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
-Poslední úprava: 6. 10. 2019
+Poslední úprava: 10. 1. 2020
