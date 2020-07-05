@@ -5,10 +5,8 @@ permalink: /prog
 order: 20
 ---
 
-Programování je spolu s modelováním můj největší koníček. Během několika let
-programování jsem vytvořil několik projektů, ty starší jsou psány ze
-současného pohledu dosti škaredě, ty novější jsou na tom (snad) o poznání
-lépe. Mám rád opensource a proto velkou část své práce koncentruji
+Programování je spolu s modelováním můj největší koníček. Mám rád opensource
+a proto velkou část své práce koncentruji
 na [githubu](https://github.com/horacekj).
 
 ## Jak programuji
@@ -20,6 +18,6 @@ na [githubu](https://github.com/horacekj).
  * Na Windows, s trpělivostí.
  * V Pythonu, s láskou.
  * Na mikrokontroléry beru C a C++.
- * Na weby jedině bez javascriptu (neumím jej).
+ * Na weby jedině bez javascriptu.
  * Umím psát nativní Windowsí desktopové aplikace v jazyce Object Pascal,
-   ačkoliv tento jazyk nemám extra v oblibě.
+   ačkoliv tento jazyk nemám v oblibě.

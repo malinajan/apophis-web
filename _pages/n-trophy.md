@@ -16,6 +16,11 @@ v týmu *JuTeJa* spolu s Terkou Kadlecovou a Julčou Přikrylovou a v roce 20
 (n-trophy⁵) v týmu *Maxwellovo stříbrné kladivo* spolu s Terkou Kadlecovou a
 Evčou Faltýnkovou. Níže jsou naše řešení domácích kol.
 
+## N-trophy¹⁰
+
+V roce 2020 jsem aktivně organizoval Logickou část N-trophy¹⁰, jsem
+spoluautorem [kvalifikační úlohy z logiky](https://2020.logika.ntrophy.cz/).
+
 ## N-trophy⁹
 
 V roce 2019 jsem aktivně organizoval Logickou část N-trophy⁹, jsem

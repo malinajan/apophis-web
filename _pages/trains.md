@@ -14,12 +14,12 @@ ho zanedbáváme na úkor hezčích a lepších kolejišť v KMŽ.
 V KMŽ se zabývám:
 
  * tvorbou [řídícího SW kolejiště](http://hjop.kmz-brno.cz/),
- * [vývojem elektroniky
+ * vývojem [elektroniky
    kolejiště](https://uli.kmz-brno.cz/),
  * [pokládáním
-   kolejí](http://kmz-brno.cz/view.php?cisloclanku=2014050001),
+   kolejí](https://www.kmz-brno.cz/stavba-stanice-uhrice-ii-pokladka-koleji/),
  * [organizováním
-   výstav](http://kmz-brno.cz/view.php?cisloclanku=2015050001),
+   výstav](https://www.kmz-brno.cz/rubrika/vystavy/),
  * psaním článků na web a
  * koncepčním vedením [modulovky TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/).
 
