@@ -8,7 +8,9 @@ title: Ahoj, já jsem Honza ☺
     */
     var word_array = [
         {text: "Honza", weight: 10},
-        {text: "Lužánky", weight: 9},
+        {text: "Instruktoři Brno", weight: 7},
+        {text: "IS kurs", weight: 7},
+        {text: "Lužánky", weight: 5},
         {text: "GVID", weight: 5},
         {text: "Vláčky", weight: 9},
         {text: "Informatika", weight: 9},
@@ -16,7 +18,7 @@ title: Ahoj, já jsem Honza ☺
         {text: "chemie", weight: 7},
         {text: "matika", weight: 7},
         {text: "experimenty", weight: 6},
-        {text: "laboratoř na lodžii", weight: 5},
+        {text: "laboratoř na lodžii", weight: 3},
         {text: "SW pro řízení vláčků", weight: 5},
         {text: "mikrokontroléry", weight: 5},
         {text: "Delphi", weight: 4},
