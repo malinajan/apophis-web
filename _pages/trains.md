@@ -19,8 +19,7 @@ V KMŽ se zabývám:
  * [pokládáním
    kolejí](https://www.kmz-brno.cz/stavba-stanice-uhrice-ii-pokladka-koleji/),
  * [organizováním
-   výstav](https://www.kmz-brno.cz/rubrika/vystavy/),
- * psaním článků na web a
+   výstav](https://www.kmz-brno.cz/rubrika/vystavy/) a
  * koncepčním vedením [modulovky TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/).
 
 Dále spravuji [Facebookovou stránku KMŽ](https://www.facebook.com/KMZBrnoI),
