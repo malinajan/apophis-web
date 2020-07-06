@@ -28,16 +28,13 @@ Vídeňská v Brně](http://www.gvid.cz/).
    [Laboratoře řízení kolejových vozidel](http://lrkv.pef.mendelu.cz).
  * Aktivně organizuji [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
    [Masarykovy univerzity](https://muni.cz).
- * Organizuji soustředění pro středoškoláky [K-SCUK](https://kscuk.fi.muni.cz/).
+ * Jsem předsedou [Spolku přátel severské zvěře](https://zverinec.fi.muni.cz/),
+   který zastřešuje aktivity na FI MU pro středoškoláky.
  * Organizuji soutěže a akce pro středoškoláky, například
-   [PoznejFI](http://poznej.fi.muni.cz/), či [InterSoB](http://intersob.fi.muni.cz/).
+   [PoznejFI](http://poznej.fi.muni.cz/), [InterSoB](http://intersob.fi.muni.cz/),
+   či [N-trophy](https://ntrophy.cz/).
  * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles).
- * Občas [vyfotím](/photo) nějaký ten vláček.
- * Baví mě společenský tanec.
- * Baví mě turistika, ať už procházky lesem, městem, či turistka vysokohorská.
- * Rád běžkuji.
- * Čas od času ulovím [nějakou tu cache](http://www.geocaching.com/) (nick:
-   horyn).
+ * Baví mě horská turistika, rád vandruji a běžkuji.
 
 ## Historie
 
@@ -46,6 +43,8 @@ Vídeňská v Brně](http://www.gvid.cz/).
  * V letech 2012–2019 jsem v Úseku výpočetní techniky ve [Středisku volného času
    Lužánky](https://luzanky.cz/") učil programovat děti v programovacím
    jazyce C#, dříve jsem učíval i Object Pascal v prostředí Delphi 7.
+ * V letech 2016–2019 jsem organizoval soustředění pro středoškoláky
+   [K-SCUK](https://kscuk.fi.muni.cz/).
 
 ## Další
 
