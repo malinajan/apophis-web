@@ -6,7 +6,7 @@ order: 30
 ---
 
 Od školního roku 2009/2010 do školního roku 2014/2015 jsem navštěvoval
-[gymnázium Vídeňská v Brně](http://www.gvid.cz/), kde jsem studoval 6-ti letý
+[gymnázium Vídeňská v Brně](http://www.gvid.cz/), kde jsem studoval šestiletý
 obor se zaměřením na programování.
 
 Rád bych prezentoval několik prací, o kterých si myslím, že se mi povedly a že
