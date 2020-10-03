@@ -9,10 +9,17 @@ order: 60
 slouží více, než pro osobní prezentaci, jako náhrada mé paměti. Data
 jsou vždy ve formátu tým@název\_hry rok: členové
 
+## Rok 2020
+
+-   Glofunkt Hakrsex@[iNula](http://inula.sifrovacky.cz/) 2020: Honza Horáček,
+    Honza „Puf“ Pokorný, Terka Kinská, Marky Doležalová, Ronald Luc
+
 ## Rok 2019
 
 -   Glofunkt@[Palapeli](http://palapeli.cz/) 2019: Honza Horáček,
     Anička Hradecká, Míša Krákorová, Honza „Puf“ Pokorný
+-   Glofunkt Hakrsex@[Tmou](http://tmou.cz/) 2019: Honza Horáček,
+    Anna Hradecká, Míša Krákorová, Jan Pokorný, Ronald Luc
 
 ## Rok 2018
 
