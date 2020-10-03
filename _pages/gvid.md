@@ -20,3 +20,9 @@ jsou maximálně třetinou celé přednášky.
 Méně tradiční projekty:
 
  * [Otázky maturantům](matq.html)
+
+Čas od času se objevím na nějaké akci, z které je zapotřebí zpracovat
+nějaký výstup.
+
+ * [Týden vědy na Jaderce](tv)
+ * [T-exkurze](t-ex)
