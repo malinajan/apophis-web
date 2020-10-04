@@ -14,6 +14,8 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
  * pečící forma/y na dort,
  * pečící forma na bábovku,
  * kvalitní termoska 1l (Termos?),
+ * žehlící prkno,
+ * nádoby na mouku apod. co kuchyně,
  * kvalitní externí repráček na baterky,
  * libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer),
  * červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC,
