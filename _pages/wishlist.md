@@ -10,6 +10,7 @@ jako objektem Vašeho zájmu, vězte, že níže zmíněné dárky mě nezarmout
 naopak, jedná se o věci, které si přeji a které bych rád měl.
 
  * Karimatka [Akord 1.8](https://www.huskycz.cz/karimatky-economy-akord-1-8-modra) nebo ekvivalentní,
+ * kuchyňská váha,
  * pečící forma/y na dort,
  * pečící forma na bábovku,
  * kvalitní termoska 1l (Termos?),
