@@ -27,7 +27,6 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky)),
  * set ešusů,
  * střední turistický batoh (Decathlon?),
- * [elektronika pro Pielsticka](http://ttmodelar.eu/index.php?route=product%2Fproduct&product_id=18771),
  * pořádný flash disk,
  * lehká ale pevná karabina na vandr,
  * samokřídlo + vysílačka.
