@@ -17,8 +17,9 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
  * žehlící prkno,
  * [AKU šroubovák & vrtačka](https://www.lidl-shop.cz/PARKSIDE-Aku-vrtaci-sroubovak-PABS-20-Li-D5-2x-2-Ah/p100302480),
  * [menší vrtací bruska](https://www.naradiprofesional.cz/206279-proxxon-28472-presna-vrtaci-bruska-fbs-240-e),
- * nádoby na mouku apod. co kuchyně,
+ * nádoby na mouku apod. do kuchyně,
  * [YubiKey 5 NFC](https://www.yubico.com/cz/product/yubikey-5-nfc/),
+ * [waflovač, toustovač, topinkovač](https://www.alza.cz/eta-sorento-3151-90010-d4624335.htm),
  * kvalitní externí repráček na baterky,
  * kvalitní špuntová bezdrátová sluchátka,
  * libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer),
@@ -33,4 +34,4 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
-Poslední úprava: 11. 10. 2020
+Poslední úprava: 24. 10. 2020
