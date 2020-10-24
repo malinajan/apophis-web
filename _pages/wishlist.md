@@ -20,7 +20,7 @@ naopak, jedná se o věci, které si přeji a které bych rád měl.
  * nádoby na mouku apod. do kuchyně,
  * [YubiKey 5 NFC](https://www.yubico.com/cz/product/yubikey-5-nfc/),
  * [waflovač, toustovač, topinkovač](https://www.alza.cz/eta-sorento-3151-90010-d4624335.htm),
- * kvalitní externí repráček na baterky,
+ * kvalitní externí repráček na baterky, např. *JBL Charge 3* nebo *JBL Charge 4*,
  * kvalitní špuntová bezdrátová sluchátka,
  * libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer),
  * červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC,
