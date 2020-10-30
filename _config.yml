@@ -45,7 +45,6 @@ permalink: pretty
 # Gems.
 #
 plugins:
-  - jekyll-paginate
   - jemoji
 
 #
