@@ -25,7 +25,6 @@ něco darovat.
  * červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC,
  * několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky)),
- * set ešusů,
  * střední turistický batoh (Decathlon?),
  * pořádný flash disk,
  * lehká ale pevná karabina na vandr,
@@ -33,4 +32,4 @@ něco darovat.
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
-Poslední úprava: 24. 10. 2020
+Poslední úprava: 8. 11. 2020
