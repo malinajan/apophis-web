@@ -5,9 +5,8 @@ permalink: /wishlist
 order: 100
 ---
 
-Pokud byste měli dojem, že si chcete zahrát na Ježíška (a jemu podobné) se mnou
-jako objektem Vašeho zájmu, vězte, že níže zmíněné dárky mě nezarmoutí, ba
-naopak, jedná se o věci, které si přeji a které bych rád měl.
+Zde je seznam dárků, které by mě potěšily. Můžete jej využít, pokud mi chcete
+něco darovat.
 
  * Karimatka [Akord 1.8](https://www.huskycz.cz/karimatky-economy-akord-1-8-modra) nebo ekvivalentní,
  * kuchyňská váha,
