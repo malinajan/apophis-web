@@ -2,7 +2,7 @@
 layout: page
 title: Šifrovačky
 permalink: /puzzles
-order: 60
+order: 50
 ---
 
 Čas od času zajdu na nějakou tu šifrovací hry. Následující přehled
@@ -13,6 +13,8 @@ jsou vždy ve formátu tým@název\_hry rok: členové
 
 -   Glofunkt Hakrsex@[iNula](http://inula.sifrovacky.cz/) 2020: Honza Horáček,
     Honza „Puf“ Pokorný, Terka Kinská, Marky Doležalová, Ronald Luc
+-   Glofunkt Hakrsex@[Tmou](http://tmou.cz/) 2020: Honza Horáček,
+    Anna Hradecká, Terka Kinská, Jan Pokorný, Ondra Svoboda
 
 ## Rok 2019
 

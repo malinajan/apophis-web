@@ -2,7 +2,7 @@
 layout: page
 title: Vídeňka
 permalink: /gvid
-order: 30
+order: 60
 ---
 
 Od školního roku 2009/2010 do školního roku 2014/2015 jsem navštěvoval

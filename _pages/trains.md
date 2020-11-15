@@ -2,7 +2,7 @@
 layout: page
 title: Vláčky
 permalink: /trains
-order: 70
+order: 20
 ---
 
 Mým největším koníčkem je stavba modelového kolejiště, již přes 10 let se spolu

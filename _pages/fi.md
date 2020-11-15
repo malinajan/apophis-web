@@ -2,7 +2,7 @@
 layout: page
 title: Fakulta informatiky
 permalink: /fi
-order: 35
+order: 40
 ---
 
 V roce 2015 jsem nastoupil na bakalářské studium Umělé inteligence a zpracování
@@ -17,6 +17,7 @@ nevystavuji.
 
 ## Vybrané školní projekty
 
+ * [Ovládání chytrých LED pomocí IR ovladače](https://github.com/horacekj/smartled-ir-control).
  * [Systém automatické kalibrace modelového železničního vozidla](https://is.muni.cz/auth/th/zarvk/),
    <br>moje bakalářská práce.
  * [Cheatsheet do předmětu Diskrétní matematika B](https://github.com/horacekj/mb204-basics).

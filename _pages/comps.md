@@ -2,7 +2,7 @@
 layout: page
 title: Soutěže
 permalink: /comps
-order: 50
+order: 70
 ---
 
 Čas od času se účastním nějakých soutěží, ze kterých často bývá srozumitelný

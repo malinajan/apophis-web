@@ -2,7 +2,7 @@
 layout: page
 title: Programování
 permalink: /prog
-order: 20
+order: 30
 ---
 
 Programování je spolu s modelováním můj největší koníček. Mám rád opensource
