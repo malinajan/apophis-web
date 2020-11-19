@@ -9,13 +9,14 @@ Zde je seznam dárků, které by mě potěšily. Můžete jej využít, pokud mi
 něco darovat.
 
  * Karimatka [Akord 1.8](https://www.huskycz.cz/karimatky-economy-akord-1-8-modra) nebo ekvivalentní,
- * kuchyňská váha,
- * pečící forma/y na dort,
- * pečící forma na bábovku,
+ * \[zabráno\] kuchyňská váha,
+ * libovolný kuchyňský tyčový mixér s nádobou (aby mohl fungovat taky jako stolní mixér),
+ * \[zabráno\] pečící forma/y na dort,
+ * \[zabráno\] pečící forma na bábovku,
  * kvalitní termoska 1l (Termos?),
  * žehlící prkno,
- * [AKU šroubovák & vrtačka](https://www.lidl-shop.cz/PARKSIDE-Aku-vrtaci-sroubovak-PABS-20-Li-D5-2x-2-Ah/p100302480),
- * [menší vrtací bruska](https://www.naradiprofesional.cz/206279-proxxon-28472-presna-vrtaci-bruska-fbs-240-e),
+ * \[zabráno\] [AKU šroubovák & vrtačka](https://www.lidl-shop.cz/PARKSIDE-Aku-vrtaci-sroubovak-PABS-20-Li-D5-2x-2-Ah/p100302480),
+ * \[zabráno\] [menší vrtací bruska](https://www.naradiprofesional.cz/206279-proxxon-28472-presna-vrtaci-bruska-fbs-240-e),
  * nádoby na mouku apod. do kuchyně,
  * [YubiKey 5 NFC](https://www.yubico.com/cz/product/yubikey-5-nfc/),
  * [waflovač, toustovač, topinkovač](https://www.alza.cz/eta-sorento-3151-90010-d4624335.htm),
@@ -32,4 +33,4 @@ něco darovat.
 
 Ale samozřejmě platí, že nejlepší je dárek originální :-).
 
-Poslední úprava: 8. 11. 2020
+Poslední úprava: 19. 11. 2020
