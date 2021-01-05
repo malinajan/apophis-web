@@ -10,7 +10,6 @@ něco darovat.
 
  * Karimatka [Akord 1.8](https://www.huskycz.cz/karimatky-economy-akord-1-8-modra) nebo ekvivalentní,
  * kvalitní termoska 1l, např. [Stanley](https://www.stanleytermosky.cz/p/stanley-termoska-adventure-series-1l-zelena),
- * \[zabráno\] nádoby na mouku apod. do kuchyně,
  * [YubiKey 5 NFC](https://www.yubico.com/cz/product/yubikey-5-nfc/),
  * kvalitní externí repráček na baterky, např. [JBL Charge 4](https://www.czc.cz/jbl-charge-4-seda/246965/produkt),
  * červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC,
@@ -19,8 +18,7 @@ něco darovat.
  * střední turistický batoh (Decathlon?),
  * pořádný flash disk,
  * lehká ale pevná karabina na vandr,
- * poukaz na střelnici,
  * libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer),
  * samokřídlo + vysílačka.
 
-Poslední úprava: 26. 12. 2020
+Poslední úprava: 5. 1. 2021
