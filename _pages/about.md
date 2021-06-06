@@ -14,25 +14,24 @@ Vídeňská v Brně](http://www.gvid.cz/).
 
  * Od svých šesti let let se zabývám stavbou modelových vláčkových kolejišť – zejména
    elektronikou a programováním – a to převážně v [Klubu modelářů železnic
-   Brno I](https://kmz-brno.cz/), kde se starám o [modulové kolejiště
-   TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/) po všech stránkách.
+   Brno I](https://kmz-brno.cz/).
    Dlouhodobě programuji [vlastní software pro řízení
    kolejiště](http://hjop.kmz-brno.cz/), který je inspirován systémem
-   [JOP](https://cs.wikipedia.org/wiki/Jednotné_obslužné_pracoviště).  Stavím
-   stanice, vyvíjím elektroniku, organizuji výstavy, jezdím na setkání...
+   [JOP](https://cs.wikipedia.org/wiki/Jednotné_obslužné_pracoviště). Stavím
+   stanice, [vyvíjím elektroniku](https://mtb.kmz-brno.cz/), organizuji výstavy,
+   jezdím na setkání...
  * Na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/) vyučuji
-   předměty [Základy programování](https://is.muni.cz/predmet/fi/podzim2018/IB111),
-   [Algoritmy a datové struktury I](https://is.muni.cz/predmet/fi/jaro2019/IB002)
-   a [Algoritmy a datové struktury II](https://is.muni.cz/predmet/fi/jaro2019/IV003).
- * Na [Mendelově univerzitě v Brně](http://mendelu.cz/) se podílím na chodu
-   [Laboratoře řízení kolejových vozidel](http://lrkv.pef.mendelu.cz).
- * Aktivně organizuji [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
-   [Masarykovy univerzity](https://muni.cz).
+   předměty [Základy programování](https://is.muni.cz/predmet/fi/podzim2018/IB111)
+   a [Algoritmy a datové struktury I](https://is.muni.cz/predmet/fi/jaro2019/IB002).
  * Jsem předsedou [Spolku přátel severské zvěře](https://zverinec.fi.muni.cz/),
    který zastřešuje aktivity na FI MU pro středoškoláky.
  * Organizuji soutěže a akce pro středoškoláky, například
    [PoznejFI](http://poznej.fi.muni.cz/), [InterSoB](http://intersob.fi.muni.cz/),
    či [N-trophy](https://ntrophy.cz/).
+ * Aktivně organizuji [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
+   [Masarykovy univerzity](https://muni.cz).
+ * Na [Mendelově univerzitě v Brně](http://mendelu.cz/) se podílím na chodu
+   [Laboratoře řízení kolejových vozidel](http://lrkv.pef.mendelu.cz).
  * Když je čas a chuť, zajdu na nějakou tu [šifrovačku](/puzzles).
  * Baví mě horská turistika, rád vandruji a běžkuji.
 

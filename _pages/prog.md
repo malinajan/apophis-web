@@ -26,6 +26,10 @@ na [githubu](https://github.com/horacekj).
 
 ### Embedded systems
 
+* **\[2021, C, velký projekt\] [Firmware a DPS MTB-USB v4](https://mtb.kmz-brno.cz/cz/v4/usb)**
+* **\[2021, C, velký projekt\] [Firmware a DPS MTB-UNI v4](https://mtb.kmz-brno.cz/cz/v4/uni)**
+* \[2021, C\] [Firmware a DPS MTB-2-AVR](https://mtb.kmz-brno.cz/cz/v4/mtb-2-avr)
+* \[2021, C\] [Firmware a DPS IRdet](https://mtb.kmz-brno.cz/cz/irdet)
 * \[2020, C\] [Firmware pro procesor ATmega k řízení serv](https://github.com/horacekj/servocontroller-fw)
 * \[2020, C, ATtiny\] [Firmware a deska návěstního dekodérů NV-H5B](https://github.com/kmzbrnoI/nv-h5b)
 * \[2020, C, ATmega\] [Firmware do ovladače NXmaus](https://github.com/kmzbrnoI/nxmaus-fw)
@@ -38,15 +42,16 @@ na [githubu](https://github.com/horacekj).
 ### Desktopové aplikace
 
 * **\[2009–současnost, Delphi\] [Projekt hJOP](https://hjop.kmz-brno.cz/)** \\
-  50 000+ vlastních řádků kódu, několik spolupracujích aplikací.
+  50 000+ vlastních řádků kódu, několik spolupracujících aplikací.
+* \[2021, C++\] [MTB Daemon](https://mtb.kmz-brno.cz/cz/v4/daemon)
 * \[2019, C++\] [Automatická kalibrace](https://github.com/kmzbrnoI/automatic-calibration)
 
 ### Knihovny
 
+* \[2020, Python\] [Knihovna pro komunikaci se systémem AC](https://github.com/kmzbrnoI/ac-python)
 * \[2019, C++\] [Knihovna k bezdrátovému měřícímu vozu](https://github.com/kmzbrnoI/wsm-lib-cpp-qt)
 * \[2019–současnost, C++\] [Knihovna pro komunikaci přes XpressNET](https://github.com/kmzbrnoI/xn-lib-cpp-qt)
 * \[2014–současnost, Delphi\] [Knihovna pro komunikaci s MTB](https://github.com/kmzbrnoI/mtb-lib)
-* \[2020, Python\] [Knihovna pro komunikaci se systémem AC](https://github.com/kmzbrnoI/ac-python)
 
 ### Weby
 

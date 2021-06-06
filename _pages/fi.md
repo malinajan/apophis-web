@@ -17,9 +17,11 @@ nevystavuji.
 
 ## Vybrané školní projekty
 
- * [Ovládání chytrých LED pomocí IR ovladače](https://github.com/horacekj/smartled-ir-control).
- * [Systém automatické kalibrace modelového železničního vozidla](https://is.muni.cz/auth/th/zarvk/),
+ * [**Návrh a implementace nového protokolu sběrnice MTBbus**](https://is.muni.cz/th/cd3ln/),
+   <br>moje diplomová práce.
+ * [**Systém automatické kalibrace modelového železničního vozidla**](https://is.muni.cz/auth/th/zarvk/),
    <br>moje bakalářská práce.
+ * [Ovládání chytrých LED pomocí IR ovladače](https://github.com/horacekj/smartled-ir-control).
  * [Cheatsheet do předmětu Diskrétní matematika B](https://github.com/horacekj/mb204-basics).
  * [Přijímač hodinového signálu DCF77](https://github.com/horacekj/dcf-receiver).
  * [Čtení maticové klávesnice na FPGA](https://github.com/horacekj/fpga-keypad).

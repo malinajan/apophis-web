@@ -15,7 +15,7 @@ V KMŽ se zabývám:
 
  * tvorbou [řídícího SW kolejiště](http://hjop.kmz-brno.cz/),
  * vývojem [elektroniky
-   kolejiště](https://uli.kmz-brno.cz/),
+   kolejiště](https://mtb.kmz-brno.cz/),
  * [pokládáním
    kolejí](https://www.kmz-brno.cz/stavba-stanice-uhrice-ii-pokladka-koleji/),
  * [organizováním
@@ -24,16 +24,16 @@ V KMŽ se zabývám:
 
 Dále spravuji [Facebookovou stránku KMŽ](https://www.facebook.com/KMZBrnoI),
 přispívám do [klubovního veřejného gitového
-repozitáře](https://github.com/kmzbrnoI) a [klubovního privátního
-repozitáře](https://share.kmz-brno.cz/).
+repozitáře](https://github.com/kmzbrnoI).
 
-V současnosti aktivně spolupracuji na činnostech v [Laboratoři řízení
+Spolupracuji na činnostech v [Laboratoři řízení
 kolejových vozidel (LRKV)](http://lrkv.pef.mendelu.cz/), která vzešla
 z kooperace KMŽ a Mendelovy univerzity v Brně v roce 2013. Kupříkladu, veškerý
 řídící SW kolejiště v LRKV je mým dílem.
 
 ## Větší projekty, které jsem vedl anebo vedu
 
+* [Vývoj systému MTB v4](https://mtb.kmz-brno.cz/).
 * [Vývoj měřicího vozu](https://wsm.kmz-brno.cz/).
 * [Vývoj řídícího SW kolejiště hJOP](http://hjop.kmz-brno.cz/).
 * Vývoj vlastního LI – [ultimateLI](https://uli.kmz-brno.cz): [deska plošných
