@@ -9,7 +9,7 @@ Mé jméno je Jan Horáček, rád si nechávám říkat Honza.
 V roce 2021 jsem vystudoval magisterský studijní program
 *Programovatelné technické struktury* na [Fakultě
 informatiky](http://www.fi.muni.cz) [Masarykovy univerzity](http://www.muni.cz)
-v Brně. V únoru 2019 jsem na FI získal získal titul Bc. Na jaře roku 2015 jsem
+v Brně. V únoru 2019 jsem na FI získal titul Bc. Na jaře roku 2015 jsem
 dokončil studium šestiletého gymnázia se zaměřením na programování na [Gymnáziu
 Vídeňská v Brně](http://www.gvid.cz/).
 
