@@ -8,8 +8,6 @@ order: 100
 Zde je seznam dárků, které by mě potěšily. Můžete jej využít, pokud mi chcete
 něco darovat.
 
- * 2× detektor CO se zobrazením úrovně
-   (např. [EVOLVEO Defender D5](https://www.alza.cz/evolveo-defender-d5-d5222863.htm#fotovideo)),
  * [PARKSIDE Akumulátor](https://www.lidl-shop.cz/p/parkside-akumulator-2-ah-pap-20-b1/p100331949)
  * [PARKSIDE Adaptér na akumulátor](https://www.lidl-shop.cz/p/parkside-adapter-na-akumulator-paa-20-b2-bez-akumulatoru-a-nabijecky/p100320303)
  * [PARKSIDE Sada pilek](https://www.lidl-shop.cz/p/parkside-sada-pilek-3dilna/p100331589)
