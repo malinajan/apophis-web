@@ -22,10 +22,11 @@ něco darovat.
  * několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky)),
  * čelovka,
+ * šátek na hlavu,
  * střední turistický batoh (Decathlon?),
  * pořádný flash disk,
  * lehká ale pevná karabina na vandr,
  * libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer),
  * samokřídlo + vysílačka.
 
-Poslední úprava: 20. 8. 2021
+Poslední úprava: 3. 10. 2021
