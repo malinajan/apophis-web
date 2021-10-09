@@ -13,7 +13,6 @@ něco darovat.
  * [PARKSIDE Sada pilek](https://www.lidl-shop.cz/p/parkside-sada-pilek-3dilna/p100331589)
  * [PARKSIDE Sada bitů](https://www.lidl-shop.cz/p/parkside-sada-bitu-na-jemnou-mechaniku/p100331542)
  * [PARKSIDE Sada 2 ráčen](https://www.lidl-shop.cz/p/parkside-racna-sada-racen-sada-nastrcnych-klicu/p100322246)
- * [PARKSIDE Aku řetězová pila](https://www.lidl-shop.cz/p/parkside-aku-retezova-pila-pksa-20-li-b2-4-ah/p800000125)
  * Karimatka [Akord 1.8](https://www.huskycz.cz/karimatky-economy-akord-1-8-modra) nebo ekvivalentní,
  * kvalitní termoska 1l, např. [Stanley](https://www.stanleytermosky.cz/p/stanley-termoska-adventure-series-1l-zelena),
  * [YubiKey 5 NFC](https://www.yubico.com/cz/product/yubikey-5-nfc/),
@@ -29,4 +28,4 @@ něco darovat.
  * libovolné [čaje Marks & Spencer z rohlik.cz](https://www.rohlik.cz/c300108007-caj/znacka/marks-spencer),
  * samokřídlo + vysílačka.
 
-Poslední úprava: 3. 10. 2021
+Poslední úprava: 9. 10. 2021
