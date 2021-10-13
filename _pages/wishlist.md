@@ -20,6 +20,7 @@ něco darovat.
  * červená čepice výpravčího, ideálně ČSD, může být ČD nebo SŽDC,
  * několik vstupů na nějakou horolezeckou stěnu v Brně (třeba
    [Hudy stěnu](http://www.hudysteny.cz/brno/cenik/vstupne-a-permanentky)),
+ * externí disk na zálohy,
  * čelovka,
  * šátek na hlavu,
  * střední turistický batoh (Decathlon?),
