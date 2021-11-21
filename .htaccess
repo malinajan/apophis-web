@@ -8,3 +8,5 @@
 </FilesMatch>
 
 ErrorDocument 404 /404.html
+
+Redirect temp /wishlist https://docs.google.com/spreadsheets/d/1jH_S2JtIa7kPqMx_mUzSO47UJhvvGuIQDGV9EFt_rTQ/edit
