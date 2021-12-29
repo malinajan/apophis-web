@@ -70,6 +70,12 @@ title: Ahoj, já jsem Honza ☺
         {text: "pořádek", weight: 1},
         {text: "spolupráce", weight: 1},
         {text: "42", weight: 3},
+        {text: "Veranda", weight: 9},
+        {text: "Kmínička", weight: 3},
+        {text: "Verunka", weight: 3},
+        {text: "TaSTučňákem", weight: 3},
+        {text: "NikaRoovy", weight: 3},
+        {text: "Telileov", weight: 3},
     ];
     $(function() {
         // When DOM is ready, select the container element and call the jQCloud method, passing the array of words as the first argument.
