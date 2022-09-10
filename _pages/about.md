@@ -6,18 +6,17 @@ order: 10
 ---
 
 Mé jméno je Jan Horáček, rád si nechávám říkat Honza.
-Jsem nadšený ajťák se zájmem o hardware a automatizaci s čerstvě vystudovanou
-vysokou školou.
+Jsem nadšený ajťák se zájmem o hardware a automatizaci.
 
-Jsem vývojářem Embedded Software ve společnosti AŽD Praha, kde pracuji na vývoji
-vlakových zabezpečovačů. V roce 2021 jsem vystudoval magisterský studijní program
-*Programovatelné technické struktury* na [Fakultě
-informatiky](http://www.fi.muni.cz) [Masarykovy univerzity](http://www.muni.cz)
-v Brně. V únoru 2019 jsem na FI získal titul Bc. Na jaře roku 2015 jsem
-dokončil studium šestiletého gymnázia se zaměřením na programování na [Gymnáziu
-Vídeňská v Brně](http://www.gvid.cz/).
-
-
+ * Od roku 2021 jsem vývojářem Embedded Software ve společnosti AŽD Praha, kde
+   pracuji na vývoji vlakových zabezpečovačů.
+ * V roce 2021 jsem vystudoval magisterský studijní program
+   *Programovatelné technické struktury* na [Fakultě
+   informatiky](http://www.fi.muni.cz) [Masarykovy univerzity](http://www.muni.cz)
+   v Brně.
+ * V únoru 2019 jsem na FI získal titul Bc. v oboru *Aplikovaná informatika*.
+ * Na jaře roku 2015 jsem dokončil studium šestiletého gymnázia se zaměřením
+   na programování na [Gymnáziu Vídeňská v Brně](http://www.gvid.cz/).
  * Od svých šesti let let se zabývám stavbou modelových vláčkových kolejišť – zejména
    elektronikou a programováním – a to převážně v [Klubu modelářů železnic
    Brno I](https://kmz-brno.cz/).
@@ -28,9 +27,7 @@ Vídeňská v Brně](http://www.gvid.cz/).
    jezdím na setkání...
  * Organizuji soutěže a akce pro středoškoláky, například
    [K-SCUK](http://kscuk.fi.muni.cz/), [Poznej FI](http://poznej.fi.muni.cz/).
- * Organizuji [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
-   [Masarykovy univerzity](https://muni.cz).
- * Jsem aktivním členem a členem výboru [Spolku přátel severské zvěře](https://zverinec.fi.muni.cz/),
+ * Jsem členem a členem výboru [Spolku přátel severské zvěře](https://zverinec.fi.muni.cz/),
    který zastřešuje aktivity na FI MU pro středoškoláky.
  * Na [Mendelově univerzitě v Brně](http://mendelu.cz/) se podílím na chodu
    [Laboratoře řízení kolejových vozidel](http://lrkv.pef.mendelu.cz).
@@ -39,6 +36,8 @@ Vídeňská v Brně](http://www.gvid.cz/).
 
 ## Historie
 
+ * V letech 2015–2022 jsem organizoval [Korespondenční seminář z informatiky](https://ksi.fi.muni.cz/)
+   [Masarykovy univerzity](https://muni.cz).
  * V letech 2017–2021 jsem na své milované [Fakultě informatiky MU](http://www.fi.muni.cz/)
    vyučoval předměty [Základy programování](https://is.muni.cz/predmet/fi/podzim2018/IB111),
    [Algoritmy a datové struktury I](https://is.muni.cz/predmet/fi/jaro2019/IB002)
