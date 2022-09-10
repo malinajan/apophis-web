@@ -9,8 +9,8 @@ středoškoláků v řešení informatických úloh. Za školní rok je zveřej
 celkem 4-5 sad zadání, kde každá sada obsahuje vícero úloh.
 
 KSI jsem aktivně řešil ve školním roce 2012/2013, méně aktivně v roce
-2013/2014 a nejvíce aktivně ve školním roce 2014/2015. V současné době
-KSI [organizuji](https://ksi.fi.muni.cz/profil/21).
+2013/2014 a nejvíce aktivně ve školním roce 2014/2015. V letech 2015–2022 jsem
+KSI [organizoval](https://ksi.fi.muni.cz/profil/21).
 
 Na této stránce jsou k dispozici veškerá má řešení. Úlohy, u nichž není
 k dispozici řešení, jsem nevyřešil.
@@ -68,3 +68,21 @@ Ve školním roce 2017/2018 mám na starost KSI jako jeho hlavní vedoucí.
 13\. ročník KSI
 
 Ve školním roce 2018/2019 jsem spolu s Ondrou Borýskem garantem KSI.
+
+## Školní rok 2019/2020
+
+14\. ročník KSI
+
+Ve školním roce 2019/2020 jsem byl běžným organizátorem KSI.
+
+## Školní rok 2020/2021
+
+15\. ročník KSI
+
+Ve školním roce 2020/2021 jsem byl běžným organizátorem KSI.
+
+## Školní rok 2021/2022
+
+16\. ročník KSI
+
+Ve školním roce 2021/2022 jsem byl běžným organizátorem KSI.
