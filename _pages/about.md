@@ -59,7 +59,8 @@ Jsem nadšený ajťák se zájmem o hardware a automatizaci.
  * Pokud mě chcete pustit na svůj server, můžete využit můj [veřejný SSH
    klíč](assets/id_green-24-1.pub).
  * Pokud mi chcete poslat něco extra tajného, můžete využít můj [veřejný PGP
-   klíč](assets/mail.pub) s fingerprintem `41F8 391C F197 C932 E460 DB3D 5F82
-   6C76 E4F2 2D0B`. Pro nejaktuálnější klíč doporučuji navštívit
+   klíč](assets/mail.pub) s fingerprintem
+   `D6B9 9814 4512 70B3 E987 3B43 D5D6 364C 5BC6 F4A8`.
+   Pro nejaktuálnější klíč doporučuji navštívit
    [pgp.mit.edu](http://pgp.mit.edu/pks/lookup?search=jan.horacek%40seznam.cz&op=index)
    a hledat klíč pro můj výše zmíněný mail.
