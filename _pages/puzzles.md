@@ -5,7 +5,7 @@ permalink: /puzzles
 order: 50
 ---
 
-Čas od času zajdu na nějakou tu šifrovací hry. Následující přehled
+Čas od času zajdu na nějakou tu šifrovací hru. Následující přehled
 slouží více, než pro osobní prezentaci, jako náhrada mé paměti. Data
 jsou vždy ve formátu tým@název\_hry rok: členové
 

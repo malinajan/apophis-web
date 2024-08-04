@@ -26,3 +26,15 @@ nějaký výstup.
 
  * [Týden vědy na Jaderce](tv)
  * [T-exkurze](t-ex)
+
+Během studia jsem se účastnil několika soutěží, ze kterých často bývá
+srozumitelný výstup v podobě psané práce, zdrojového kódu atp. Tyto materiály
+jsou zde k dispozici.
+
+ * [N-trophy](n-trophy)
+ * [Red Bot](redbot)
+ * [Diversity](diversity)
+ * [InterLoS](interlos)
+ * [InterSoB](intersob)
+ * [Fyzikální olympiáda](fo)
+ * [Chemická olympiáda](cho)

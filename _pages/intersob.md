@@ -6,7 +6,7 @@ hide: true
 ---
 
 [InterSoB](http://intersob.math.muni.cz/) je týmová městská běhací hra, které
-jsem se zúčastnil v letech 2013, 2014 a 2015. V roce 2016 a 2017 jsem InterSoBa
+jsem se zúčastnil v letech 2013, 2014 a 2015. Pak jsem delší dobu InterSoBa
 organizoval.
 
  * org@[InterSoB 2017](http://ks.math.muni.cz/intersob/2017/): B-týmákoval

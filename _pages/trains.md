@@ -1,47 +1,37 @@
 ---
 layout: page
-title: Vláčky
+title: Řízení modelové železnice
 permalink: /trains
 order: 20
 ---
 
-Mým největším koníčkem je stavba modelového kolejiště, již přes 10 let se spolu
-se svým otcem aktivně podílím na dění v [Klubu modelářů železnic
-Brno I](http://www.kmz-brno.cz/), kde se věnuji především měřítku TT. Mimo to
-již dlouhou dobu stavíme domácí kolejiště, které ale není modelem. Momentálně
-ho zanedbáváme na úkor hezčích a lepších kolejišť v KMŽ.
+Mým největším koníčkem je řízení modelového kolejiště. Od roku 2002 se
+aktivně podílím na dění v [Klubu modelářů železnic
+Brno I](http://www.kmz-brno.cz/), kde se věnuji především automatizaci řízení,
+programování a vývoji hardwaru.
 
 V KMŽ se zabývám:
 
- * tvorbou [řídícího SW kolejiště](http://hjop.kmz-brno.cz/),
- * vývojem [elektroniky
-   kolejiště](https://mtb.kmz-brno.cz/),
- * [pokládáním
-   kolejí](https://www.kmz-brno.cz/stavba-stanice-uhrice-ii-pokladka-koleji/),
+ * vývojem [řídícího SW kolejiště hJOP](http://hjop.kmz-brno.cz/),
+ * vývojem elektroniky kolejiště, např. systému [MTB](https://mtb.kmz-brno.cz/),
  * [organizováním
    výstav](https://www.kmz-brno.cz/rubrika/vystavy/) a
- * koncepčním vedením [modulovky TT](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/).
+ * spoluvedením klubu.
 
-Dále spravuji [Facebookovou stránku KMŽ](https://www.facebook.com/KMZBrnoI),
-přispívám do [klubovního veřejného gitového
+Přispívám do [klubovního veřejného gitového
 repozitáře](https://github.com/kmzbrnoI).
 
-Spolupracuji na činnostech v [Laboratoři řízení
+Starám se o řídicí SW a HW v [Laboratoři řízení
 kolejových vozidel (LRKV)](http://lrkv.pef.mendelu.cz/), která vzešla
-z kooperace KMŽ a Mendelovy univerzity v Brně v roce 2013. Kupříkladu, veškerý
-řídící SW kolejiště v LRKV je mým dílem.
+z kooperace KMŽ a Mendelovy univerzity v Brně v roce 2013.
 
 ## Větší projekty, které jsem vedl anebo vedu
 
-* [Vývoj systému MTB v4](https://mtb.kmz-brno.cz/).
-* [Vývoj měřicího vozu](https://wsm.kmz-brno.cz/).
-* [Vývoj řídícího SW kolejiště hJOP](http://hjop.kmz-brno.cz/).
-* Vývoj vlastního LI – [ultimateLI](https://uli.kmz-brno.cz): [deska plošných
-  spojů](https://github.com/kmzbrnoI/uLI-pcb),
-  [firmware](https://github.com/kmzbrnoI/uLI-fw) a [firmware dělající z uLI
-  centrálu](https://github.com/kmzbrnoI/uLI-master-fw).
-* Stavba modelu stanice Uhřice u Kyjova.
-* [Vývoj Posílacích
-  systémů](https://github.com/kmzbrnoI?query=posilaci-systemy).
+1. [Řídící SW kolejiště hJOP](http://hjop.kmz-brno.cz/).
+2. [Systém MTB v4](https://mtb.kmz-brno.cz/).
+3. [Měřicí vůz](https://wsm.kmz-brno.cz/).
+4. [Ultimate LI](https://uli.kmz-brno.cz).
+5. [Odpojovač trakce DC-01](https://www.kmz-brno.cz/dc01/).
+6. [Přestavník hWexla](https://www.kmz-brno.cz/hwexla/).
 
 ![Dispečerské rozhraní stanice Klobouky u Brna](assets/klobouky.png)

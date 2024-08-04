@@ -5,7 +5,7 @@ permalink: /prog
 order: 30
 ---
 
-Programování je spolu s modelováním můj největší koníček. Mám rád opensource
+Programování je spolu s modelovou železnicí můj velký koníček. Mám rád opensource
 a proto velkou část své práce koncentruji
 na [githubu](https://github.com/horacekj).
 
@@ -26,6 +26,9 @@ na [githubu](https://github.com/horacekj).
 
 ### Embedded systems
 
+* \[2024, C\] [Firmware a DPS MTB-RC](https://github.com/kmzbrnoI/mtb-rc)
+* \[2023, C\] [Firmware a DPS DC-01](https://www.kmz-brno.cz/dc01/)
+* \[2022, C\] [Firmware a DPS hWexla](https://www.kmz-brno.cz/hwexla/)
 * **\[2021, C, velký projekt\] [Firmware a DPS MTB-USB v4](https://mtb.kmz-brno.cz/cz/v4/usb)**
 * **\[2021, C, velký projekt\] [Firmware a DPS MTB-UNI v4](https://mtb.kmz-brno.cz/cz/v4/uni)**
 * \[2021, C\] [Firmware a DPS MTB-2-AVR](https://mtb.kmz-brno.cz/cz/v4/mtb-2-avr)

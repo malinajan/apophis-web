@@ -9,7 +9,7 @@ Mé jméno je Jan Horáček, rád si nechávám říkat Honza.
 Jsem nadšený ajťák se zájmem o hardware a automatizaci.
 
  * Od roku 2021 jsem vývojářem Embedded Software ve společnosti AŽD Praha, kde
-   pracuji na vývoji vlakových zabezpečovačů.
+   pracuji na vývoji [vlakových zabezpečovačů](https://cs.wikipedia.org/wiki/Vlakový_zabezpečovač).
  * V roce 2021 jsem vystudoval magisterský studijní program
    *Programovatelné technické struktury* na [Fakultě
    informatiky](http://www.fi.muni.cz) [Masarykovy univerzity](http://www.muni.cz)
