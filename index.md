@@ -90,5 +90,3 @@ title: Just Honza
 </script>
 
 <div id="tags" style="width: 100%; height: 600px;"></div>
-
-Charakterizován jedinou větou: 'Honza zná &pi; na 42 desetinných míst.'
