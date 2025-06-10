@@ -5,7 +5,7 @@ permalink: /about
 order: 10
 ---
 
-Mé jméno je Jan Horáček, rád si nechávám říkat Honza.
+Mé jméno je Jan Malina (roz. Horáček), rád si nechávám říkat Honza.
 Jsem nadšený ajťák se zájmem o hardware a automatizaci.
 
  * Od roku 2021 jsem vývojářem Embedded Software ve společnosti AŽD Praha, kde
